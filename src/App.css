@@ -240,6 +240,9 @@ body{
 
 @media (max-width:500px){
 
+    .left-section{
+        width: 90%;
+    }
    
     .one h1{
         font-size: 16px;
