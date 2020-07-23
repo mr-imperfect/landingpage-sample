@@ -239,6 +239,8 @@ body{
 }
 
 @media (max-width:500px){
+
+   
     .one h1{
         font-size: 16px;
     }
