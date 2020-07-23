@@ -264,11 +264,11 @@ body{
     }
     .right-section{
         position: absolute;
-        top:550px;
+        top:250px;
     }
     .course{
         position: absolute;
-        top:600px;
+        top:400px;
 
     }
     .buttonclass{
@@ -277,7 +277,7 @@ body{
     }
     iframe{
         position: absolute;
-        top:700px;
+        top:500px;
 
 
     }
