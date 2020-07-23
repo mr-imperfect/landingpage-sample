@@ -237,3 +237,46 @@ body{
         left: -200px;
     }
 }
+
+@media (max-width:500px){
+    .one h1{
+        font-size: 16px;
+    }
+    .one p{
+        font-size: 16px;    
+
+    }
+    .two h1{
+        font-size: 16px;
+    }
+    .two p{
+        font-size: 16px;    
+
+    }
+    .three h1{
+        font-size: 16px;
+    }
+    .three p{
+        font-size: 16px;    
+
+    }
+    .right-section{
+        position: absolute;
+        top:550px;
+    }
+    .course{
+        position: absolute;
+        top:600px;
+
+    }
+    .buttonclass{
+        position: absolute;
+        left: 200px;
+    }
+    iframe{
+        position: absolute;
+        top:700px;
+
+
+    }
+}
