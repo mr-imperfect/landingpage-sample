@@ -3,6 +3,7 @@ body{
     margin:0;
     padding:0;
   font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
 }
 
 
@@ -279,7 +280,7 @@ body{
         left: 200px;
     }
     iframe{
-        position: absolute;
+        position: absolute; 
         top:400px;
 
 
