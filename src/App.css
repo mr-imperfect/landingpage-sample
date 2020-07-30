@@ -192,6 +192,9 @@ body{
 }
 
 @media (max-width:890px){
+    body{
+        overflow-x: hidden;
+    }
     .left-section{
         position: absolute;
         left: 100px;
@@ -216,6 +219,9 @@ body{
 }
 
 @media (max-width:630px){
+    body{
+        overflow-x: hidden;
+    }
 
     .left-section{
         position: absolute;
