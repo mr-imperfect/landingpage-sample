@@ -241,6 +241,10 @@ body{
 
 @media (max-width:500px){
 
+    body{
+        overflow-x: hidden;
+    }
+
     .left-section{
         width: 90%;
     }
