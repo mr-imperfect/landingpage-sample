@@ -4,13 +4,14 @@ body{
     padding:0;
   font-family: Arial, Helvetica, sans-serif;
   overflow-x: hidden;
-}
 
+  
+}
 
 
 .first-section{
     display:flex;
-    width:1366px;
+    width:100%;
     height:200px;
     /* background-color: brown; */
     
@@ -193,7 +194,7 @@ body{
 
 @media (max-width:890px){
     body{
-        overflow-x: hidden;
+        overflow: hidden;
     }
     .left-section{
         position: absolute;
@@ -219,8 +220,8 @@ body{
 }
 
 @media (max-width:630px){
-    body{
-        overflow-x: hidden;
+    .container{
+        overflow: hidden;
     }
 
     .left-section{
@@ -248,7 +249,7 @@ body{
 @media (max-width:500px){
 
     body{
-        overflow-x: hidden;
+        overflow: hidden;
     }
 
     .left-section{
