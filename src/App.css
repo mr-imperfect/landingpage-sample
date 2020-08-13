@@ -249,7 +249,7 @@ body{
 @media (max-width:500px){
 
     body{
-        overflow: hidden;
+        overflow-x: hidden;
     }
 
     .left-section{
